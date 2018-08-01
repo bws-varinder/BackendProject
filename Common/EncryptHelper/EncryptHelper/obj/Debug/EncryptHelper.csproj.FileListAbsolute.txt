@@ -1,0 +1,9 @@
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Common\EncryptHelper\EncryptHelper\bin\Debug\EncryptHelper.dll
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Common\EncryptHelper\EncryptHelper\bin\Debug\EncryptHelper.pdb
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Common\EncryptHelper\EncryptHelper\obj\Debug\EncryptHelper.dll
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Common\EncryptHelper\EncryptHelper\obj\Debug\EncryptHelper.pdb
+D:\Angular6\Angular6Backend\BackendProject\Common\EncryptHelper\EncryptHelper\bin\Debug\EncryptHelper.dll
+D:\Angular6\Angular6Backend\BackendProject\Common\EncryptHelper\EncryptHelper\bin\Debug\EncryptHelper.pdb
+D:\Angular6\Angular6Backend\BackendProject\Common\EncryptHelper\EncryptHelper\obj\Debug\EncryptHelper.csprojResolveAssemblyReference.cache
+D:\Angular6\Angular6Backend\BackendProject\Common\EncryptHelper\EncryptHelper\obj\Debug\EncryptHelper.dll
+D:\Angular6\Angular6Backend\BackendProject\Common\EncryptHelper\EncryptHelper\obj\Debug\EncryptHelper.pdb

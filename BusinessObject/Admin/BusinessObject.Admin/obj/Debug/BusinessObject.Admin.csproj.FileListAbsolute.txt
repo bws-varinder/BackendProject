@@ -1,0 +1,8 @@
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\BusinessObject\Admin\BusinessObject.Admin\bin\Debug\BusinessObject.Admin.dll
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\BusinessObject\Admin\BusinessObject.Admin\bin\Debug\BusinessObject.Admin.pdb
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\BusinessObject\Admin\BusinessObject.Admin\obj\Debug\BusinessObject.Admin.dll
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\BusinessObject\Admin\BusinessObject.Admin\obj\Debug\BusinessObject.Admin.pdb
+D:\Angular6\Angular6Backend\BackendProject\BusinessObject\Admin\BusinessObject.Admin\bin\Debug\BusinessObject.Admin.dll
+D:\Angular6\Angular6Backend\BackendProject\BusinessObject\Admin\BusinessObject.Admin\bin\Debug\BusinessObject.Admin.pdb
+D:\Angular6\Angular6Backend\BackendProject\BusinessObject\Admin\BusinessObject.Admin\obj\Debug\BusinessObject.Admin.dll
+D:\Angular6\Angular6Backend\BackendProject\BusinessObject\Admin\BusinessObject.Admin\obj\Debug\BusinessObject.Admin.pdb

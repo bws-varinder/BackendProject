@@ -1,0 +1,11 @@
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Dapper\SqlDapper\bin\Debug\SqlDapper.dll
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Dapper\SqlDapper\bin\Debug\SqlDapper.pdb
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Dapper\SqlDapper\bin\Debug\Dapper.dll
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Dapper\SqlDapper\obj\Debug\SqlDapper.dll
+C:\Users\BWS-SERVER\Desktop\RealEstate\RealEstate\Dapper\SqlDapper\obj\Debug\SqlDapper.pdb
+D:\Angular6\Angular6Backend\BackendProject\Dapper\SqlDapper\bin\Debug\SqlDapper.dll
+D:\Angular6\Angular6Backend\BackendProject\Dapper\SqlDapper\bin\Debug\SqlDapper.pdb
+D:\Angular6\Angular6Backend\BackendProject\Dapper\SqlDapper\bin\Debug\Dapper.dll
+D:\Angular6\Angular6Backend\BackendProject\Dapper\SqlDapper\obj\Debug\SqlDapper.csprojResolveAssemblyReference.cache
+D:\Angular6\Angular6Backend\BackendProject\Dapper\SqlDapper\obj\Debug\SqlDapper.dll
+D:\Angular6\Angular6Backend\BackendProject\Dapper\SqlDapper\obj\Debug\SqlDapper.pdb
